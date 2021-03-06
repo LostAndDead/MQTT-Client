@@ -1,3 +1,11 @@
+/*
+ * ====================NOTE====================
+ *    This code was created by LostAndDead,
+ *   please don't claim this as your own work
+ *        https://github.com/LostAndDead
+ * ============================================
+ */
+
 //We require the mqtt library and file system
 var mqtt = require('mqtt');
 var fs = require('fs')
